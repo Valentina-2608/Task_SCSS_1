@@ -121,3 +121,13 @@ menu a {
 .info_support img:nth-child(1) {
   margin-left: 55px;
 }
+
+/* Block hand_picked */
+.hand_picked {
+  width: 1370px;
+  height: 100px;
+  position: absolute;
+  top: 1100px;
+  left: 0px;
+  margin-left: 50px;
+}
