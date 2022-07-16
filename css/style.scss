@@ -3,7 +3,7 @@
 
 $width_elem:1440px;   
 $height:4673px;  
-
+$color_gray:#484848;
 
 .main{width:$width_elem;
 height:$height;
@@ -21,3 +21,30 @@ top:0px;
 left:0px;
 background-color:#E0E0E0;
 }
+
+menu{
+margin-top:25px;
+
+ ul {width:calc($width_elem/2);
+height:40px;
+margin-left:600px;
+
+li{list-style-type:none;
+display:inline-block;
+border-right:1px solid $color_gray;
+padding-right:20px;
+}
+}
+ li:nth-child(4){
+border-right:1px solid #E0E0E0;
+}
+
+ a{text-decoration:none;
+color:$color_gray;
+font-size:20px;
+margin-left:20px;
+text-transform:uppercase;
+font-weight:bold;
+}
+}
+
