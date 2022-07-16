@@ -86,4 +86,29 @@ float:left;
 margin-left:35px;
 margin-top:30px;}
 
+/* Slider */
+.slider{
+width:$width_elem;
+height:calc($width_elem/2);
+position:absolute;
+top:155px;
+left:0px;
 
+img:nth-child(1){
+position:absolute;
+top:0px;
+left:0px;
+}
+
+img:nth-child(2){
+position:absolute;
+top:150px;
+left:580px;
+}
+
+ img:nth-child(3){
+position:absolute;
+top:480px;
+left:630px;
+}
+}
