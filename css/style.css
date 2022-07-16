@@ -105,3 +105,19 @@ menu a {
   top: 480px;
   left: 630px;
 }
+
+/* Block info_support */
+.info_support {
+  width: 1440px;
+  heigth: 100px;
+  position: absolute;
+  top: 910px;
+  left: 0px;
+}
+.info_support img {
+  float: left;
+  margin-left: 10px;
+}
+.info_support img:nth-child(1) {
+  margin-left: 55px;
+}
