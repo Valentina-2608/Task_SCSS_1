@@ -131,3 +131,93 @@ menu a {
   left: 0px;
   margin-left: 50px;
 }
+
+/* Block collection */
+.collection {
+  width: 1370px;
+  height: 810px;
+  position: absolute;
+  top: 1270px;
+  left: 50px;
+}
+
+.column1 {
+  width: 400px;
+  height: 800px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.small_img1 {
+  width: 400px;
+  height: 400px;
+  margin-top: 10px;
+}
+.small_img1 img:nth-child(1) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 4;
+}
+.small_img1 img:nth-child(2) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 5;
+}
+.small_img1 img:nth-child(3) {
+  position: absolute;
+  top: 280px;
+  left: 140px;
+  z-index: 6;
+}
+.small_img1 img:nth-child(3):hover {
+  cursor: pointer;
+}
+
+.small_img2 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 410px;
+  left: 0px;
+}
+.small_img2 img:nth-child(1) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 4;
+}
+.small_img2 img:nth-child(2) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 5;
+}
+
+.column2 {
+  width: 460px;
+  height: 800px;
+  position: absolute;
+  top: 5px;
+  left: 435px;
+}
+.column2 img:nth-child(1) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.column2 img:nth-child(2) {
+  position: absolute;
+  top: 1px;
+  left: 10px;
+}
+
+.column3 {
+  width: 460px;
+  height: 800px;
+  position: absolute;
+  top: 0px;
+  left: 935px;
+}
