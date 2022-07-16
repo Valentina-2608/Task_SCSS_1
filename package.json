@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.53.0"
+  },
+  "name": "task_scss_1",
+  "description": "Creating web-page using HTML and SCSS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentina-2608/Task_SCSS_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valentina-2608/Task_SCSS_1/issues"
+  },
+  "homepage": "https://github.com/Valentina-2608/Task_SCSS_1#readme"
+}
