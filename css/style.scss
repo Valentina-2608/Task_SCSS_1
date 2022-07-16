@@ -112,3 +112,24 @@ top:480px;
 left:630px;
 }
 }
+
+
+/* Block info_support */
+
+.info_support{
+width:$width_elem;
+heigth:100px;
+position:absolute;
+top:910px;
+left:0px;
+
+img{
+float:left;
+margin-left:10px;
+
+&:nth-child(1){
+margin-left:55px;
+}
+}
+}
+
