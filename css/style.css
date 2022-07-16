@@ -15,3 +15,29 @@ header {
   left: 0px;
   background-color: #E0E0E0;
 }
+
+menu {
+  margin-top: 25px;
+}
+menu ul {
+  width: 720px;
+  height: 40px;
+  margin-left: 600px;
+}
+menu ul li {
+  list-style-type: none;
+  display: inline-block;
+  border-right: 1px solid #484848;
+  padding-right: 20px;
+}
+menu li:nth-child(4) {
+  border-right: 1px solid #E0E0E0;
+}
+menu a {
+  text-decoration: none;
+  color: #484848;
+  font-size: 20px;
+  margin-left: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
