@@ -273,3 +273,13 @@ menu a {
   left: 40px;
   z-index: 6;
 }
+
+/* Block caption_brand */
+.caption_brand {
+  width: 1370px;
+  height: 100px;
+  position: absolute;
+  top: 3160px;
+  left: 0px;
+  margin-left: 50px;
+}
