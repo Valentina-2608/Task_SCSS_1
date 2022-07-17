@@ -221,3 +221,13 @@ menu a {
   top: 0px;
   left: 935px;
 }
+
+/* Block caption_summer */
+.caption_summer {
+  width: 1370px;
+  height: 100px;
+  position: absolute;
+  top: 2150px;
+  left: 0px;
+  margin-left: 50px;
+}
