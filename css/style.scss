@@ -289,6 +289,14 @@ margin-right:15px;
 position:relative;}
 
 .clothes img{
+&:nth-child(1){
+opacity:1;
+transition: opacity 3s;
+	&:hover{
+	opacity:0.2;
+	cursor:pointer;
+	}
+}
 
 
 &:nth-child(2){
