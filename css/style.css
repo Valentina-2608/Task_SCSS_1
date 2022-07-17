@@ -250,6 +250,14 @@ menu a {
   position: relative;
 }
 
+.clothes img:nth-child(1) {
+  opacity: 1;
+  transition: opacity 3s;
+}
+.clothes img:nth-child(1):hover {
+  opacity: 0.2;
+  cursor: pointer;
+}
 .clothes img:nth-child(2) {
   position: absolute;
   top: 300px;
