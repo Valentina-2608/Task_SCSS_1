@@ -2,7 +2,6 @@
 .main {
   width: 1440px;
   height: 4673px;
-  background-color: #FFFEE5;
   position: relative;
   margin: 0 auto;
 }
@@ -50,7 +49,7 @@ menu a {
   position: absolute;
   top: 70px;
   left: 0px;
-  background-color: white;
+  background-color: #FFFFFF;
 }
 .navigation nav {
   width: 600px;
@@ -155,6 +154,7 @@ menu a {
   margin-top: 10px;
 }
 .small_img1 img:nth-child(1) {
+  position: absolute;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -337,7 +337,7 @@ menu a {
   margin-left: 20px;
 }
 .woman_feedback p:nth-child(1) {
-  color: white;
+  color: #FFFFFF;
   font-size: 22px;
 }
 .woman_feedback p:nth-child(2) {
@@ -372,7 +372,7 @@ menu a {
   text-align: right;
 }
 .man_feedback p:nth-child(1) {
-  color: white;
+  color: #FFFFFF;
   font-size: 22px;
 }
 .man_feedback p:nth-child(2) {
@@ -400,7 +400,7 @@ footer {
   width: 1440px;
   height: 300px;
   position: absolute;
-  top: 10px;
+  top: 0px;
   left: 0px;
 }
 
@@ -411,7 +411,7 @@ footer {
   margin-left: 40px;
 }
 .info_text h3 {
-  color: white;
+  color: #FFFFFF;
 }
 .info_text li {
   list-style-type: none;
