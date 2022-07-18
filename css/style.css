@@ -306,3 +306,82 @@ menu a {
   left: 0px;
   margin-left: 50px;
 }
+
+/* Block feedback_customers */
+.feedback_customers {
+  width: 1440px;
+  height: 420px;
+  position: absolute;
+  top: 3700px;
+  left: 0px;
+  background-color: red;
+}
+
+.woman {
+  height: 370px;
+  width: 630px;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.woman img {
+  float: left;
+  margin-left: -20px;
+}
+
+.woman_feedback {
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+.woman_feedback p:nth-child(1) {
+  color: white;
+  font-size: 22px;
+}
+.woman_feedback p:nth-child(2) {
+  color: black;
+  font-size: 28px;
+  margin-top: 30px;
+}
+.woman_feedback p:nth-child(3) {
+  color: #484848;
+  font-size: 18px;
+  margin-top: -10px;
+}
+
+.man {
+  height: 370px;
+  width: 630px;
+  position: absolute;
+  top: 50px;
+  left: 790px;
+}
+.man img {
+  float: left;
+  margin-left: 30px;
+}
+
+.man_feedback {
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin-top: 70px;
+  margin-left: 40px;
+  text-align: right;
+}
+.man_feedback p:nth-child(1) {
+  color: white;
+  font-size: 22px;
+}
+.man_feedback p:nth-child(2) {
+  color: black;
+  font-size: 28px;
+  margin-top: 30px;
+}
+.man_feedback p:nth-child(3) {
+  color: #484848;
+  font-size: 18px;
+  margin-top: -10px;
+}
