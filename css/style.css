@@ -296,3 +296,13 @@ menu a {
 .our_brands img {
   margin-left: 20px;
 }
+
+/* Block caption_customers */
+.caption_customers {
+  width: 1370px;
+  height: 100px;
+  position: absolute;
+  top: 3540px;
+  left: 0px;
+  margin-left: 50px;
+}
